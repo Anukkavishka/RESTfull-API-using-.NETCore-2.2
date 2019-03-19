@@ -1,0 +1,24 @@
+Look at the response for the GET in api/categories 
+it retunrs a JSON value like this
+{
+        "id": 103,
+        "name": "Fisheries",
+        "products": []
+    }
+
+"products" :[] array is meaning full but not necessary to here. we can't obviously change the Model because then EF will throw errors and we are breaking our domain design.
+Instead we create resource classes to each endpoint,for what we want to expose using the endpoint.
+
+A resource class is a class that contains only basic information that will be exchanged between client applications and API endpoints, 
+generally in form of JSON data, to represent some particular information.
+
+All responses from API endpoints must return a resource.
+
+after creating the relevent resource classes we are going to map them service objects by  a lib called AutoMapper.
+
+'   dotnet add package AutoMapper
+    dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection      '
+
+once you have added the dependency you wil have to register it for dependency injection and then create a class that will tell AutoMapper how to handle classes mapping
+
+after changing the Startup.cs and the creating to ModelToResourceProfile.cs we could use the mapping by changing the controller class

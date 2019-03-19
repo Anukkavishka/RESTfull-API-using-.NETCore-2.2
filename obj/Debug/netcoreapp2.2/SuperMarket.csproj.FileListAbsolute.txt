@@ -1,0 +1,14 @@
+C:\Users\ankalk\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.deps.json
+C:\Users\ankalk\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.json
+C:\Users\ankalk\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.runtimeconfig.dev.json
+C:\Users\ankalk\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.dll
+C:\Users\ankalk\SuperMarket\bin\Debug\netcoreapp2.2\SuperMarket.pdb
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.csprojAssemblyReference.cache
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorAssemblyInfo.cache
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorAssemblyInfo.cs
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.AssemblyInfo.cs
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.RazorTargetAssemblyInfo.cache
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.dll
+C:\Users\ankalk\SuperMarket\obj\Debug\netcoreapp2.2\SuperMarket.pdb
